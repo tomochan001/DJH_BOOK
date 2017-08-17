@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<integer>1</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>524339264.71488798</real>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>559e95081c78c52640d0731071600bf78f1dac81d844fe319eca4cff609caa7e</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
